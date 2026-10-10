@@ -1,2 +1,2 @@
 # GitHub-Demo
-Trying to learn GitHub!
+Trying to learn GitHub
